@@ -1,0 +1,23 @@
+{
+    "name": "ExpoTics2023",
+    "short_name": "expotics",
+    "start_url": "/inscripciones",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Expo Tecnología 2023",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "assets/images/manabi.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/manabi.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
